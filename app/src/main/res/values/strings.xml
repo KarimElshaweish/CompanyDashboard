@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CompanyDashboard</string>
+    <string name="Add_offer">Add Offer</string>
+    <string name="offerName">Offer Name</string>
+    <string name="offerDetails">Offer Details</string>
+    <string name="msg_subscribed">subscribe</string>
+    <string name="msg_subscribe_failed">sbcribe failed</string>
+</resources>
